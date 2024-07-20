@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mac/.gradle/caches/transforms-3/e4be23b82a68c0c4e791415b66c3d77e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mac/.gradle/caches/transforms-3/e4be23b82a68c0c4e791415b66c3d77e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/d8d313e7cc0cb6324b4d511b7ef80288/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mac/.gradle/caches/transforms-3/b7c3afe587dc4e21c0be6f0cc1293c1a/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-3/424bda6330cd5662836cfdfe9e40f604/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-3/aee562a3998f051e2587d06158863376/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mac/.gradle/caches/transforms-3/c1a95e7bbfa562d58bdc238c95d273b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-3/87306666c7066f9589b716f01b63a56c/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-3/44e80f4b0128914cac72d38f5ee033dd/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-3/322ee200616d1fe4224aea46166f6faa/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-3/523da794c7fff67737f32f64278e1534/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-3/b69d46324a43201d3adb01977059ec41/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mac/.gradle/caches/transforms-3/5194a7e47c422f10fd688c23176c9a35/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-3/b1455e735f116d5d8798ddce2be13a32/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mac/.gradle/caches/transforms-3/e4be23b82a68c0c4e791415b66c3d77e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mac/.gradle/caches/transforms-3/63b22cd9e225d156bd5be5a221dbcd2f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/d6c03b865dba535e2ee743cba14ee84a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:1-45:12
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:1:11-69
+queries
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:41:21-70
+data
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/d8d313e7cc0cb6324b4d511b7ef80288/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/d8d313e7cc0cb6324b4d511b7ef80288/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mac/.gradle/caches/transforms-3/b7c3afe587dc4e21c0be6f0cc1293c1a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mac/.gradle/caches/transforms-3/b7c3afe587dc4e21c0be6f0cc1293c1a/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-3/424bda6330cd5662836cfdfe9e40f604/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mac/.gradle/caches/transforms-3/424bda6330cd5662836cfdfe9e40f604/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-3/aee562a3998f051e2587d06158863376/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mac/.gradle/caches/transforms-3/aee562a3998f051e2587d06158863376/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mac/.gradle/caches/transforms-3/c1a95e7bbfa562d58bdc238c95d273b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mac/.gradle/caches/transforms-3/c1a95e7bbfa562d58bdc238c95d273b3/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-3/87306666c7066f9589b716f01b63a56c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mac/.gradle/caches/transforms-3/87306666c7066f9589b716f01b63a56c/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-3/44e80f4b0128914cac72d38f5ee033dd/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/mac/.gradle/caches/transforms-3/44e80f4b0128914cac72d38f5ee033dd/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-3/322ee200616d1fe4224aea46166f6faa/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mac/.gradle/caches/transforms-3/322ee200616d1fe4224aea46166f6faa/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-3/523da794c7fff67737f32f64278e1534/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mac/.gradle/caches/transforms-3/523da794c7fff67737f32f64278e1534/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-3/b69d46324a43201d3adb01977059ec41/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mac/.gradle/caches/transforms-3/b69d46324a43201d3adb01977059ec41/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mac/.gradle/caches/transforms-3/5194a7e47c422f10fd688c23176c9a35/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mac/.gradle/caches/transforms-3/5194a7e47c422f10fd688c23176c9a35/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-3/b1455e735f116d5d8798ddce2be13a32/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mac/.gradle/caches/transforms-3/b1455e735f116d5d8798ddce2be13a32/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mac/.gradle/caches/transforms-3/e4be23b82a68c0c4e791415b66c3d77e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mac/.gradle/caches/transforms-3/e4be23b82a68c0c4e791415b66c3d77e/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mac/.gradle/caches/transforms-3/63b22cd9e225d156bd5be5a221dbcd2f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mac/.gradle/caches/transforms-3/63b22cd9e225d156bd5be5a221dbcd2f/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/d6c03b865dba535e2ee743cba14ee84a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mac/.gradle/caches/transforms-3/d6c03b865dba535e2ee743cba14ee84a/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.chatgpt.app-mergeDebugResources-9:/values-bn/values-bn.xml",
+            "map": [
+                {
+                    "source": "/Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

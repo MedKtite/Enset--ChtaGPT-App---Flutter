@@ -1,0 +1,12 @@
+com.example.chatgpt.app-jetified-window-1.0.0-beta04-0 /Users/mac/.gradle/caches/transforms-3/7afd6ba4a1aebd6c4be7c7d93e60e16d/transformed/jetified-window-1.0.0-beta04/res
+com.example.chatgpt.app-jetified-annotation-experimental-1.1.0-1 /Users/mac/.gradle/caches/transforms-3/d6c03b865dba535e2ee743cba14ee84a/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.chatgpt.app-jetified-window-java-1.0.0-beta04-2 /Users/mac/.gradle/caches/transforms-3/d8d313e7cc0cb6324b4d511b7ef80288/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.chatgpt.app-core-1.6.0-3 /Users/mac/.gradle/caches/transforms-3/dbe683c6515e1a58c200e8ee536713c9/transformed/core-1.6.0/res
+com.example.chatgpt.app-debug-4 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/debug/res
+com.example.chatgpt.app-main-5 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/android/app/src/main/res
+com.example.chatgpt.app-pngs-6 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/generated/res/pngs/debug
+com.example.chatgpt.app-resValues-7 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/generated/res/resValues/debug
+com.example.chatgpt.app-rs-8 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/generated/res/rs/debug
+com.example.chatgpt.app-mergeDebugResources-9 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.chatgpt.app-mergeDebugResources-10 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.chatgpt.app-merged_res-11 /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/build/app/intermediates/merged_res/debug

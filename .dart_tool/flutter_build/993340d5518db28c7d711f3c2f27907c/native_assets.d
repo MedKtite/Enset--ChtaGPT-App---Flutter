@@ -1,0 +1,1 @@
+ /Users/mac/Downloads/plugins/chatgpt/chatgpt/chatgpt/.dart_tool/flutter_build/993340d5518db28c7d711f3c2f27907c/native_assets.yaml: 
